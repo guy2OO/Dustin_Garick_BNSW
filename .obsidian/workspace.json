@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BNSW TTRPG/Brand New South Wales.md",
+                "file": "Brand New South Wales.md",
                 "mode": "source",
                 "source": false
               },
@@ -31,8 +31,7 @@
               "title": "Brand New South Wales"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,22 +169,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8da7230d8c67be28",
+  "active": "c79de23b064c08b3",
   "lastOpenFiles": [
-    "BNSW TTRPG/Brand New South Wales.md",
+    "Brand New South Wales.md",
     "netlify.toml",
     "New Text Document.txt",
     "BNSW TTRPG/PubsidianConverter1.0alpha.exe",
     "PubsidianConverter1.0alpha.exe",
     "91a27d41ebfc2a6712196d30eb15791f.jpg",
     "86982958bc54926137cb12d085de8cb8.jpg",
-    "BNSW TTRPG/Clearshield Health Insurance.md",
-    "BNSW TTRPG/Gumshadow Reserve.md",
-    "BNSW TTRPG/Evan Cole.md",
-    "BNSW TTRPG/Kelmain 'The Wise'.md",
-    "BNSW TTRPG/Bunyip.md",
-    "BNSW TTRPG/Ollie.md",
-    "BNSW TTRPG/Stormdrains.md",
+    "Clearshield Health Insurance.md",
+    "Gumshadow Reserve.md",
+    "Evan Cole.md",
+    "Kelmain 'The Wise'.md",
+    "Bunyip.md",
+    "Ollie.md",
+    "Stormdrains.md",
     "Polaroid_Photo.png",
     "Pasted image 20250126235641.png",
     "BNSW TTRPG",
