@@ -31,7 +31,8 @@
               "title": "Brand New South Wales"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,15 +170,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c79de23b064c08b3",
+  "active": "8da7230d8c67be28",
   "lastOpenFiles": [
+    "BNSW TTRPG/Brand New South Wales.md",
     "netlify.toml",
     "New Text Document.txt",
     "BNSW TTRPG/PubsidianConverter1.0alpha.exe",
     "PubsidianConverter1.0alpha.exe",
     "91a27d41ebfc2a6712196d30eb15791f.jpg",
     "86982958bc54926137cb12d085de8cb8.jpg",
-    "BNSW TTRPG/Brand New South Wales.md",
     "BNSW TTRPG/Clearshield Health Insurance.md",
     "BNSW TTRPG/Gumshadow Reserve.md",
     "BNSW TTRPG/Evan Cole.md",
