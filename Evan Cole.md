@@ -29,14 +29,33 @@ Holds a current drivers license and owns a black, 2001 Ford sedan
 Has a history of trespass and urban exploration, most recently detained after being found at the Gumshadow reserve [[Stormdrains]] and near woodland compound.
 
 ---
-*After house search*
+*Received search warrant for house*
 
+	Living room, bedroom and kitchen
 Seems to enjoy horror films, has not unpacked much since moving to [[Brand New South Wales|BNSW]]. Multiple journal entries found at house, main bed room seems unused.
 - Pill bottle inside bedroom, to be taken 2x day w/ food
 
 Further reading of Coles journals suggests he felt an apparent danger to himself nearby.
 
 Evan Coles 'contact' for [[Clearshield Health Insurance]] is a Mr Greyson of whom was referred by his late father.
+
+	Basement
+Door to basement was locked but key was located inside bedroom, many pin boards with assorted cryptid news and information.
+- Many improvised traps and weapons through out
+- Data on public buildings like libraries and town hall
+- Map of [[Stormdrains]] on wall.
+- Assorted drawings of various creatures
+
+Darkroom was enclosed in separate area of basement, with equipment for film development.
+- Assorted photos drying
+- One photo showed some sort of [[Tikbalang|large monster]]
+- narrow tunnel under bench leading out to dog kennel
+
+	`Backyard`
+Blood stains inside dog kennel near tunnel exit from basement, claw and finger marks along tunnel.
+Small 'tunnel' under back fence.
+
+\-*Blood sample was tested and is of unknown equine origin*
 
 ---
 
