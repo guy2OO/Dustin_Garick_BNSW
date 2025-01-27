@@ -21,9 +21,9 @@ An employee of Phalanx security, Carlos, contact and employed Dustin Garick to i
 >
 \-Home intruder on meeting John
 
-John meetup with [[Dustin Garick|Dustin]] and after discussing the details of the break in accompanied him to the [[St Enochs Mortuary]] to inspect the intruders body.
+John meetup with [[Dustin Garick|Dustin]] and after discussing the details of the break in accompanied him to the [[St Enochs Mortuary|Morgue]] to inspect the intruders body.
 
-***Investigating the corpse***
+##### Investigating the corpse
 
 Upon examining the corpse it was found to a number of notable features,
 - Missing eyes
@@ -34,7 +34,7 @@ Upon examining the corpse it was found to a number of notable features,
 
 John claimed that the intruder had 'glowing orange eyes' and that he had encountered similar looking people during his service in Iraq near a temple. The intruder mentioned information that few people would know. John also mentioned he had a nightmare the night before the break in.
 
-After noticing the signs of autopsy the mortician was questioned as no autopsy was meant to have happened yet, he commented that this was a corpse that should have been in the morgue already.
+After noticing the signs of autopsy the [[Fred Flickinger|Mortician]] was questioned as no autopsy was meant to have occurred yet, he commented that this was a corpse that should have been in the morgue already.
 After checking he found it to be missing but provided the following information.
 - Corpse was a Robert Hargrove
 - Was being embalmed during the day of the 11th Aug
@@ -45,4 +45,4 @@ After checking he found it to be missing but provided the following information.
 - American birth
 - Reported dead on the 8th of August
 
-
+Meet a medical student named [[Arawn Ellis]] outside morgue, she was present during embalming process on the 11th of August. Claims to have seen the body 'wake up' at ~17:00 during a blackout and heard it say something about 'being after someone', it had orange eyes upon 'waking up'. She claims the corpse was "possessed by Satan", corpse collapse again soon after.
