@@ -8,7 +8,7 @@ LANDING_BUTTON = "Key info"
 # (Optional) Site description on landing page
 LANDING_DESCRIPTION = "A collection of information and data."
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
-LANDING_PAGE = "Brand-New-South-Wales.md"
+LANDING_PAGE = "Brand-New-South-Wales"
 # (Optional) Site title on landing page
 LANDING_TITLE = "The caseboard for the BNSW area"
 PYTHON_VERSION = "3.8"
