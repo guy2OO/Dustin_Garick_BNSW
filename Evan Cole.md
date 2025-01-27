@@ -38,7 +38,7 @@ Seems to enjoy horror films, has not unpacked much since moving to [[Brand New S
 
 Further reading of Coles journals suggests he felt an apparent danger to himself nearby.
 
-Evan Coles 'contact' for [[Clearshield Health Insurance]] is a Mr Greyson of whom was referred by his late father.
+Evan Coles 'contact' for [[Clearshield Health Insurance|Clearshield]] is a Mr Greyson of whom was referred by his late father.
 
 	Basement
 Door to basement was locked but key was located inside bedroom, many pin boards with assorted cryptid news and information.

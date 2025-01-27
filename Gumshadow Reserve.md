@@ -16,12 +16,12 @@ aliases:
 
 An illegal rave was broken up by police at Gumshadow after gunshots where heard, no corpses where found however multiple ash piles where found at the scene near expended bullet casings.
 
-A 17 y.o. boy, Andy, was taken into custody by police and treated for a heroin overdose, he was questioned the following day after recovering.
+A 17 y.o. boy, Andy, was taken into custody by police and treated for a heroin overdose, he was questioned by [[Dustin Garick|Dustin]] the following day after recovering.
 - Saw some sort of animal in bushes on way to rave
 - Was sold drugs (Heroin) by a dealer named [[Ollie]]
 - Heard "animal hissing and screams" where shooting occurred
 
-Reportedly Ollie followed the DJ out of the rave and into reserve and lost track of them in the forest, he was heard yelling "Leave her alone" before gun shots where heard.
+Reportedly [[Ollie]] followed the DJ out of the rave and into reserve and lost track of them in the forest, he was heard yelling "Leave her alone" before gun shots where heard.
 
 ## Search for Evan Cole
 *10th August 2006*
