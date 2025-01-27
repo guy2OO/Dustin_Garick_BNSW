@@ -5,6 +5,6 @@ aliases:
   - Jane
   - Mrs Doe
 ---
-*CEO of Phalanx security*
+*CEO of [[Phalanx Security]]*
 
 ---

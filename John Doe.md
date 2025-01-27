@@ -14,14 +14,9 @@ A middle aged man currently married to a [[Jane Doe]], lives with his wife in a 
 *August 12th 2006*
 
 Late in the night of the 11th (~23:00) an unknown individual broke into Johns house and attempted to assault him. John defended himself and killed the intruded during the struggle, in the process he destroyed some of the staircase in his house.
-An employee of Phalanx security, Carlos, contact and employed Dustin Garick to investigate the break in at [[Jane Doe|Janes]] direction.
+An employee of [[Phalanx Security]], Carlos, contact and employed Dustin Garick to investigate the break in at [[Jane Doe|Janes]] direction.
 
-> [!info]
->  "Return what you have stolen!"
->
-\-Home intruder on meeting John
-
-John meetup with [[Dustin Garick|Dustin]] and after discussing the details of the break in accompanied him to the [[St Enochs Mortuary|Morgue]] to inspect the intruders body.
+John meetup with [[Dustin Garick|Dustin]] and after discussing the details of the break in accompanied him to the [[St Enochs Mortuary|Morgue]] to inspect the intruders body. Apparently the intruder told John to "Return what you have stolen!"
 
 ##### Investigating the corpse
 

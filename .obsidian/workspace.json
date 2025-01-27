@@ -31,8 +31,7 @@
               "title": "John Doe"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,15 +169,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8418a76a31900c7a",
+  "active": "c79de23b064c08b3",
   "lastOpenFiles": [
     "John Doe.md",
+    "Phalanx Security.md",
+    "Jane Doe.md",
     "Arawn Ellis.md",
     "Fred Flickinger.md",
     "St Enochs Mortuary.md",
     "Entities Special Operations Group.md",
     "Dustin Garick.md",
-    "Jane Doe.md",
     "Evan Cole.md",
     "35 Victoria St.md",
     "Tikbalang.md",
