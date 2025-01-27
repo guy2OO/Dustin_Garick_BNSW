@@ -22,7 +22,7 @@ Upper area had many chains hanging from ceiling; [[Evan Cole|Cole]] was 'crucifi
 - Pistol silencer
 - 2x Snapped flip phones
 
-Upon attempted rescue of [[Evan Cole|Cole]] a creature could be heard approaching from further down connecting tunnel, Cole said to "Leave me, run" as [[Bunyip|creature]] got closer.
-Exiting antechamber and returning down straight section of drains a [[Bunyip|deer like monster]] chased and was engaged with multiple shots, two 12 gauge slugs and seven 9mm rounds where fired before the [[Bunyip|creature]] stopped and retreated.
+Upon attempted rescue of [[Evan Cole|Cole]] a creature could be heard approaching from further down connecting tunnel, [[Evan Cole|Cole]] said to "Leave me, run" as [[Tikbalang|creature]] got closer.
+Exiting antechamber and returning down straight section of drains a [[Tikbalang|deer like monster]] chased and was engaged with multiple shots, two 12 gauge slugs and seven 9mm rounds where fired before the [[Tikbalang|creature]] stopped and retreated.
 
 *Continued in [[Gumshadow Reserve#First Investigation|Gumshadow, First Investigation]]*

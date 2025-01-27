@@ -26,7 +26,7 @@ Has inherited a large amount of financial assets from deceased parents and has a
 Holds a current drivers license and owns a black, 2001 Ford sedan
 - Car still at home address
 
-Has a history of trespass and urban exploration, most recently detained after being found at the Gumshadow reserve storm drains and near woodland compound.
+Has a history of trespass and urban exploration, most recently detained after being found at the Gumshadow reserve [[Stormdrains]] and near woodland compound.
 
 ---
 *After house search*

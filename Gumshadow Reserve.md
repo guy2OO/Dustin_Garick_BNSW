@@ -34,5 +34,5 @@ Proceeded along path while sweeping stick to disarm traps and entered [[Stormdra
 
 *Details in [[Stormdrains#First Investigation, Entering the drains|Entering the Drains]]*
 
-After exiting the [[Stormdrains]] and attempting to return to vehicle the [[Bunyip|deer like monster]] returned and, while cautious of firearm, gave chase along path to carpark, a blue heeler arrived and deterred [[Bunyip|creature]] regularly until reaching vehicle. 
-The [[Bunyip|creature]] returned again to chase vehicle out of reserve at speed.
+After exiting the [[Stormdrains]] and attempting to return to vehicle the [[Tikbalang|deer like monster]] returned and, while cautious of firearm, gave chase along path to carpark, a blue heeler arrived and deterred [[Tikbalang|creature]] regularly until reaching vehicle. 
+The [[Tikbalang|creature]] returned again to chase vehicle out of reserve at speed.

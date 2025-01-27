@@ -17,4 +17,4 @@ An older man with a long beard and purple robes, lives near [[Gumshadow Reserve]
 
 - Saw a person enter [[Gumshadow Reserve]] and midnight a "fortwinkle" ago carrying a duffle bag
 - Claimed that Evan Cole "sleeps beneath the earth under a shadow"
-- Mentioned 'Bunyips' in forest
+- Mentioned '[[Tikbalang|Bunyips]]' in forest
