@@ -23,7 +23,7 @@ A 17 y.o. boy, Andy, was taken into custody by police and treated for a heroin o
 
 Reportedly Ollie followed the DJ out of the rave and into reserve and lost track of them in the forest, he was heard yelling "Leave her alone" before gun shots where heard.
 
-## First Investigation
+## Search for Evan Cole
 *10th August 2006*
 
 Glade near creek had traps place through out area, such as
@@ -32,7 +32,7 @@ Glade near creek had traps place through out area, such as
 
 Proceeded along path while sweeping stick to disarm traps and entered [[Stormdrains]] to investigate.
 
-*Details in [[Stormdrains#First Investigation, Entering the drains|Entering the Drains]]*
+*Details in [[Stormdrains#Search for Evan Cole, Entering the drains]]*
 
 After exiting the [[Stormdrains]] and attempting to return to vehicle the [[Tikbalang|deer like monster]] returned and, while cautious of firearm, gave chase along path to carpark, a blue heeler arrived and deterred [[Tikbalang|creature]] regularly until reaching vehicle. 
 The [[Tikbalang|creature]] returned again to chase vehicle out of reserve at speed.

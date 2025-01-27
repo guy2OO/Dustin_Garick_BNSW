@@ -31,7 +31,8 @@
               "title": "John Doe"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,24 +170,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c79de23b064c08b3",
+  "active": "8418a76a31900c7a",
   "lastOpenFiles": [
     "John Doe.md",
+    "Fred Flickinger.md",
+    "Stormdrains.md",
+    "Gumshadow Reserve.md",
     "Phalanx Security.md",
     "Jane Doe.md",
     "Arawn Ellis.md",
-    "Fred Flickinger.md",
     "St Enochs Mortuary.md",
     "Entities Special Operations Group.md",
     "Dustin Garick.md",
     "Evan Cole.md",
     "35 Victoria St.md",
     "Tikbalang.md",
-    "Stormdrains.md",
     "Polaroid_Photo.png",
     "Ollie.md",
     "Kelmain 'The Wise'.md",
-    "Gumshadow Reserve.md",
     "Clearshield Health Insurance.md",
     "Brand New South Wales.md",
     "netlify.toml",

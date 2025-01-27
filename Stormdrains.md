@@ -7,10 +7,10 @@ tags:
 ---
 A network of large storm water drains spread throughout [[Gumshadow Reserve]] and [[Brand New South Wales]] area.
 
-## First Investigation, Entering the drains
+## Search for Evan Cole, Entering the drains
 *10th August 2006*
 
-*Continued from [[Gumshadow Reserve#First Investigation|Gumshadow, First Investigation]]*
+*Continued from [[Gumshadow Reserve#Search for Evan Cole|Gumshadow, Search for Cole]]*
 
 Upon entering drains and following straight section an intersection was reached, the right path was blocked with grated bars, the left path was clear.
 A drawing by [[Evan Cole]] was on the wall near intersection with words "fight back" next to it.
@@ -25,4 +25,4 @@ Upper area had many chains hanging from ceiling; [[Evan Cole|Cole]] was 'crucifi
 Upon attempted rescue of [[Evan Cole|Cole]] a creature could be heard approaching from further down connecting tunnel, [[Evan Cole|Cole]] said to "Leave me, run" as [[Tikbalang|creature]] got closer.
 Exiting antechamber and returning down straight section of drains a [[Tikbalang|deer like monster]] chased and was engaged with multiple shots, two 12 gauge slugs and seven 9mm rounds where fired before the [[Tikbalang|creature]] stopped and retreated.
 
-*Continued in [[Gumshadow Reserve#First Investigation|Gumshadow, First Investigation]]*
+*Continued in [[Gumshadow Reserve#Search for Evan Cole|Gumshadow, Search for Cole]]*

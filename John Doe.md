@@ -41,3 +41,10 @@ After checking he found it to be missing but provided the following information.
 - Reported dead on the 8th of August
 
 Meet a medical student named [[Arawn Ellis]] outside morgue, she was present during embalming process on the 11th of August. Claims to have seen the body 'wake up' at ~17:00 during a blackout and heard it say something about 'being after someone', it had orange eyes upon 'waking up'. She claims the corpse was "possessed by Satan", corpse collapse again soon after.
+
+Collected CCTV footage from 11-12th Aug from [[St Enochs Mortuary|Morgue]] to review and check if corpse moved.
+
+##### Reviewing CCTV footage
+
+CCTC footage shows [[Fred Flickinger|Fred]] and [[Arawn Ellis|Arawn]] embalming the corpse before Fred leaves ~17:04 and footage cuts as blackout hits; When footage resumes the corpse has moved and embalming fluid has been spilt. After cleaning the autopsy room and finishing embalming Fred exits room.
+some of the room can be seen due to computer lights, the cabinet door opens at 21:00 and corpse exits cabinet and leaves room. Cabinet door closes on its own afterwards.
