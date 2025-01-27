@@ -32,7 +32,7 @@ Glade near creek had traps place through out area, such as
 
 Proceeded along path while sweeping stick to disarm traps and entered [[Stormdrains]] to investigate.
 
-*Details in [[Stormdrains#Search for Evan Cole, Entering the drains]]*
+*Details in [[Stormdrains#Search for Evan Cole, Entering the drains|Entering the drains]]*
 
 After exiting the [[Stormdrains]] and attempting to return to vehicle the [[Tikbalang|deer like monster]] returned and, while cautious of firearm, gave chase along path to carpark, a blue heeler arrived and deterred [[Tikbalang|creature]] regularly until reaching vehicle. 
 The [[Tikbalang|creature]] returned again to chase vehicle out of reserve at speed.

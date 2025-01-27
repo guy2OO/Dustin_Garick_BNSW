@@ -7,6 +7,6 @@ aliases:
   - Mr Flicks
   - Fred Flicks
 ---
-*Local mortician at St Enochs Mortuary*
+*Local mortician at [[St Enochs Mortuary]]*
 
 ---

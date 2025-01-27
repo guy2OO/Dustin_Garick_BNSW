@@ -9,7 +9,7 @@ aliases:
 - Premium health care provider with a focus on mental health.
 - has a special division focused on hallucinations and schizophrenia
 
-## Reported Client Missing
+## Reported Evan Cole Missing
 *August 9th 2006*
 
 Filed a missing persons repot for an Evan Cole around 9th Aug 2006, missing for 2 weeks at time of reporting, wants him found dead or alive.
