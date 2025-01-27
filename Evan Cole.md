@@ -4,6 +4,7 @@ tags:
 aliases:
   - Cole
   - Evan
+  - Mr Cole
 ---
 ***Missing person***
 *As of ~27th July 2006*
