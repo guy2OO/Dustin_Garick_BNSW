@@ -5,6 +5,9 @@ tags:
 *Large Stormdrains located at [[Gumshadow Reserve]]*
 
 ---
+![[stormdrains.jpg]]
+
+---
 A network of large storm water drains spread throughout [[Gumshadow Reserve]] and [[Brand New South Wales]] area.
 
 ## Search for Evan Cole, Entering the drains

@@ -18,21 +18,20 @@
             }
           },
           {
-            "id": "5650b9760819578f",
+            "id": "91b1ed91c650adbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "John Doe.md",
+                "file": "Phalanx Security.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "John Doe"
+              "title": "Phalanx Security"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -51,7 +50,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -170,23 +170,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5650b9760819578f",
+  "active": "c79de23b064c08b3",
   "lastOpenFiles": [
+    "Phalanx Security.md",
+    "Phalanx.jpg",
+    "c961aa8d-ff4f-46ef-9f5c-af54d2b73e67.webp",
+    "image_2025-01-05_231829033.png",
+    "Stormdrains.md",
+    "stormdrains.jpg",
+    "Hunter.net.md",
+    "Gumshadow.jpg",
     "Gumshadow Reserve.md",
-    "Evan Cole.md",
-    "St Enochs Mortuary.md",
-    "Fred Flickinger.md",
+    "Gumshadow 1.jpg",
     "John Doe.md",
     "Dustin Garick.md",
-    "Stormdrains.md",
+    "Ollie.md",
+    "Fred Flickinger.md",
+    "Tikbalang.md",
+    "Evan Cole.md",
+    "St Enochs Mortuary.md",
     "Entities Special Operations Group.md",
     "Clearshield Health Insurance.md",
     "Brand New South Wales.md",
     "Arawn Ellis.md",
-    "Tikbalang.md",
     "Polaroid_Photo.png",
-    "Phalanx Security.md",
-    "Ollie.md",
     "Kelmain 'The Wise'.md",
     "Jane Doe.md",
     "35 Victoria St.md",

@@ -7,3 +7,6 @@ aliases:
 *American private security provider*
 
 ---
+![[Phalanx.jpg]]
+
+---

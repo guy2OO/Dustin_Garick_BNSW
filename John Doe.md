@@ -8,6 +8,8 @@ aliases:
 *Ex military, served two tours in the middle east*
 
 ---
+
+---
 A middle aged man currently married to a [[Jane Doe]], lives with his wife in a large manor house in [[Brand New South Wales|BNSW]]. He is not currently employed but enjoys a comfortable life due to his partners assets.
 
 ## Home Intruder
