@@ -31,8 +31,7 @@
               "title": "Brand New South Wales"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,7 +170,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "91b1ed91c650adbe",
+  "active": "c79de23b064c08b3",
   "lastOpenFiles": [
     "Brand New South Wales.md",
     "St Enochs Mortuary.md",
