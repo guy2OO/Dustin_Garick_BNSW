@@ -12,7 +12,10 @@ The City of BNSW is located in the state of New South Wales, being place closer 
 ---
 - [[Gumshadow Reserve]]
 - [[Stormdrains]]
+- [[St Enochs Mortuary]]
 #### Characters
 ---
 - [[Ollie]]
 - [[Dustin Garick]]
+- [[John Doe]]
+- [[Arawn Ellis]]
