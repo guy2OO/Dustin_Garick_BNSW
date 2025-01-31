@@ -32,7 +32,7 @@ Has a history of trespass and urban exploration, most recently detained after be
 ---
 *Received search warrant for house*
 
-	Living room, bedroom and kitchen
+#####   Living room, bedroom and kitchen
 Seems to enjoy horror films, has not unpacked much since moving to [[Brand New South Wales|BNSW]]. Multiple journal entries found at house, main bed room seems unused.
 - Pill bottle inside bedroom, to be taken 2x day w/ food
 
@@ -40,7 +40,7 @@ Further reading of Coles journals suggests he felt an apparent danger to himself
 
 Evan Coles 'contact' for [[Clearshield Health Insurance|Clearshield]] is a Mr Greyson of whom was referred by his late father.
 
-	Basement
+#####   Basement
 Door to basement was locked but key was located inside bedroom, many pin boards with assorted cryptid news and information.
 - Many improvised traps and weapons through out
 - Data on public buildings like libraries and town hall
@@ -52,7 +52,7 @@ Darkroom was enclosed in separate area of basement, with equipment for film deve
 - One photo showed some sort of [[Tikbalang|large monster]]
 - narrow tunnel under bench leading out to dog kennel
 
-	`Backyard`
+#####   Backyard`
 Blood stains inside dog kennel near tunnel exit from basement, claw and finger marks along tunnel.
 Small 'tunnel' under back fence.
 
