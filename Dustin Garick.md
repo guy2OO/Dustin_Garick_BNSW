@@ -26,7 +26,9 @@ Contacted by Carlos from [[Phalanx Security|Phalanx]] about break in at employer
 
 After reviewing [[John Doe#Reviewing CCTV footage|CCTV footage]] and consulting with [[John Doe|John]] decided to make a [[Hunter.net]] account under name 'snakewhisperer' and made a post regarding the '[[Tikbalang|Bunyip]]' and orange eyed man looking for further information.
 
-Contacted by unknown party, suspected gangmember, cautioned about looking where I shouldn't and wants to meet alone at the old servo at the edge of town at 15:00.
+Contacted by unknown party, suspected gang member, cautioned about looking where I shouldn't and wants to meet alone at the old servo at the edge of town at 15:00.
 [[John Doe|John]] offered to accompany as extra muscle and wait in car during talk.
 
-On the way to the meeting two people appeared in the car from [[John Doe|Johns]] phone
+On the way to the meeting two people appeared in the car from [[John Doe|Johns]] phone just before arriving at the meeting. These two people where [[Joel Dowel]] and [[Arawn Ellis]], Arawn was very confused about how she had arrived but Joel seemed more aware of what was happening.
+
+Upon meeting with the unknown party he was unhappy with the extra company but after discussing why he wanted to meet found that he was looking for a body that had gone missing, a 'Jackel', after hearing description likely second corpse in [[Stormdrains#Search for Evan Cole, Entering the drains|Stormdrain investigation]], showed him a picture and got a positive ID.
