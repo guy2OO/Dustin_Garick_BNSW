@@ -32,3 +32,5 @@ Contacted by unknown party, suspected gang member, cautioned about looking where
 On the way to the meeting two people appeared in the car from [[John Doe|Johns]] phone just before arriving at the meeting. These two people where [[Joel Dowel]] and [[Arawn Ellis]], Arawn was very confused about how she had arrived but Joel seemed more aware of what was happening.
 
 Upon meeting with the unknown party he was unhappy with the extra company but after discussing why he wanted to meet found that he was looking for a body that had gone missing, a 'Jackel', after hearing description likely second corpse in [[Stormdrains#Search for Evan Cole, Entering the drains|Stormdrain investigation]], showed him a picture and got a positive ID.
+
+After further talks unknown party introduced as [[Ollie]], he made a phone call and seemed to dispatch some people to collect the body, after informing him about [[Tikbalang|Bunyip]] in drains and possible threats there he expressed concerns about the people he sent there.
